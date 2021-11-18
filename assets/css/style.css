@@ -94,9 +94,6 @@ Từ tổng quan đến chi tiết
     width: calc(100% / 3);
 }
 
-#main {
-
-}
 
 #header {
     position: fixed;
@@ -232,9 +229,6 @@ Từ tổng quan đến chi tiết
 
 }
 
-#content {
-
-}
 
 #content .content-section{
     width: 800px;
